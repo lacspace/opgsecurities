@@ -1,9 +1,10 @@
 
 # OPG Securities Project
+# Link [OPG Securities](http://www.opgsecurities.com)
 
 ## Overview
 
-The OPG Securities project is a web-based platform developed for Growth Securities, a stock brokerage firm. The platform aims to provide users with access to various financial tools, trading platforms, and information related to the Indian stock market.
+The OPG Securities project is a web-based platform developed developed by Lacspace, a stock brokerage firm. The platform aims to provide users with access to various financial tools, trading platforms, and information related to the Indian stock market.
 
 ## Features
 
